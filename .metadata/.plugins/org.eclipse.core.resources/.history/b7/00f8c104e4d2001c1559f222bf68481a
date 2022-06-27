@@ -1,0 +1,12 @@
+<taglib>
+
+<tag>
+
+<name>sum</name>
+<tagclass>com.tag.support.demo.MyHandler</tagclass>
+
+</tag>
+
+
+
+</taglib>

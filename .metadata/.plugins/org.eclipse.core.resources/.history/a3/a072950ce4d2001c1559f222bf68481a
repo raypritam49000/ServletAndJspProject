@@ -1,0 +1,26 @@
+<taglib>
+
+	<tag>
+
+		<name>sum</name>
+		<tagclass>com.tag.support.demo.MyHandler</tagclass>
+
+		<attribute>
+			<name>number1</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+
+		<attribute>
+			<name>number2</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+
+
+
+	</tag>
+
+
+
+</taglib>
